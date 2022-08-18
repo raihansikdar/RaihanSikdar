@@ -1,5 +1,3 @@
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=raihansikdar &show_icons=true&locale=en&layout=compact" alt="raihansikdar"](https://media-exp1.licdn.com/dms/image/C5616AQG9ZH0MxwwMtQ/profile-displaybackgroundimage-shrink_350_1400/0/1645984985019?e=1666224000&v=beta&t=O-4m0Nhkoay-k1jgfsmDNgs0G-iGzpzLqrOkuejkCaQ)/></p>
-
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
