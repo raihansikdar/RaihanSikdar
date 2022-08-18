@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
-<p> Skills:</p> 
-⭐>>> Data Science (DS):  • Pandas • NumPy • Matplotlib • Seaborn • Sklearn • Scikit-Learn  • Data Visualization • Data analysis • Data Mining •   
-⭐>>> Machine Learning (ML): Linear Regression• K Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree  • Random Forest • K-Means
+<h3> Skills:</h3> 
+<h4> ⭐>>> Data Science (DS):  • Pandas • NumPy • Matplotlib • Seaborn • Sklearn • Scikit-Learn  • Data Visualization • Data analysis • Data Mining </h>  
+<h4> ⭐>>> Machine Learning (ML): Linear Regression• K Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree  • Random Forest • K-Means</h>
 
 
 - 🔭 I’m currently working on **Machine Learning**
