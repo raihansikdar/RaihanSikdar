@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*d7QeSREErtMuJQ0bcptMXQ.gif)](https://raihansikdar.io)
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
