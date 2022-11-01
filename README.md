@@ -49,15 +49,3 @@
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar&" alt="raihansikdar" /></p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihansikdar&show_icons=true&locale=en&layout=compact" alt="raihansikdar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihansikdar&show_icons=true&locale=en" alt="raihansikdar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar&" alt="raihansikdar" /></p>
-
