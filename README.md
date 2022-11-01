@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/raihansikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihansikdar" height="30" width="40" /></a>
 <a href="https://kaggle.com/raihansikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raihansikdar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raihan_sikdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raihan_sikdar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raihansikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raihansikdar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raihansikdar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raihansikdar10" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/raihan_sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raihan_sikdar" height="30" width="40" /></a>
 </p>
@@ -49,3 +50,10 @@
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar&" alt="raihansikdar" /></p>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihansikdar" alt="raihansikdar" /></a> </p>
