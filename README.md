@@ -3,6 +3,32 @@
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
 <h3> Skills:</h3> 
+
+<h4>⭐>>> Data Science (DS) :
+ • Data analysis • Data Mining 
+ >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn 
+ >>>Data Visualization : Matplotlib • Seaborn 
+ 
+⭐>>> Machine Learning (ML) : 
+ • Linear Classification • Linear Regression • K-Nearest Neighbour (KNN)
+ • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree 
+ • Random Forest • K-Means 
+
+⭐>>> Software Quality Assurance (SQA) : 
+ • Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test 
+ Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting 
+ using test management tools 
+ • API Testing Tool : Postman
+ • Performance Testing Tool : JMeter
+ • Agile Methodology & Project Management Tool : Jira </h>  
+
+
+
+
+
+
+
+
 <h4> ⭐>>> Data Science (DS):  • Pandas • NumPy • Matplotlib • Seaborn • Sklearn • Scikit-Learn  • Data Visualization • Data analysis • Data Mining </h>  
 <h4> ⭐>>> Machine Learning (ML): Linear Regression• K Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree  • Random Forest • K-Means</h>
 
