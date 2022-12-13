@@ -2,25 +2,25 @@
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
-<h3> Skills:</h3> 
+<h2> Skills:</h2> 
 
-<h4>⭐>>> Data Science (DS) :
- • Data analysis • Data Mining 
- >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn 
- >>>Data Visualization : Matplotlib • Seaborn 
+<h4> ⭐>>> Data Science (DS) : </h>
+<h4> Data analysis • Data Mining </h>  
+<h4> >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn </h>
+<h4> >>>Data Visualization : Matplotlib • Seaborn </h>
  
-⭐>>> Machine Learning (ML) : 
- • Linear Classification • Linear Regression • K-Nearest Neighbour (KNN)
- • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree 
- • Random Forest • K-Means 
+<h4> ⭐>>> Machine Learning (ML) : </h>
+<h4> • Linear Classification • Linear Regression • K-Nearest Neighbour (KNN) </h>
+<h4> • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree </h>
+<h4> • Random Forest • K-Means </h>
 
-⭐>>> Software Quality Assurance (SQA) : 
- • Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test 
- Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting 
- using test management tools 
- • API Testing Tool : Postman
- • Performance Testing Tool : JMeter
- • Agile Methodology & Project Management Tool : Jira </h>  
+<h4> ⭐>>> Software Quality Assurance (SQA) : </h>
+<h4> • Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test </h>
+<h4> Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting </h>
+<h4> using test management tools </h>
+<h4> • API Testing Tool : Postman </h>
+<h4> • Performance Testing Tool : JMeter </h>
+<h4> • Agile Methodology & Project Management Tool : Jira </h>  
 
 
 
