@@ -6,13 +6,10 @@
 
 <h3> ⭐>>> Data Science (DS) : </h3>
 <h4> Data analysis • Data Mining >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn >>>Data Visualization : Matplotlib • Seaborn </h4>
- 
 <h4> ⭐>>> Machine Learning (ML) : </h>
 <h4> Linear Classification • Linear Regression • K-Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree        • Random Forest • K-Means </h4>
-
 <h4> ⭐>>> Software Quality Assurance (SQA) : </h>
-<h4> Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools. </h4>
-<h4> API Testing Tool : Postman • Performance Testing Tool : JMeter • Agile Methodology & Project Management Tool : Jira </h>  
+<h4> Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools. • API Testing Tool : Postman • Performance Testing Tool : JMeter • Agile Methodology & Project Management Tool : Jira </h>  
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
