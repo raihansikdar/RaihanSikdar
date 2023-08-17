@@ -1,7 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif)](https://raihansikdar.io)
 
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
-[![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io)
 
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
