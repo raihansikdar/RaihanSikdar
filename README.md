@@ -31,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 💬 Ask me about **Flutter, Machine Learning, Deep Learning, Artificial intelligence**
+- 💬 Ask me about **Flutter, Machine Learning, Artificial intelligence**
 
 - 📫 How to reach me **raihansikdar10@gmail.com**
 
