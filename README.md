@@ -1,4 +1,3 @@
- [![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-e66811dab9.gif)](https://raihansikdar.io)
 <div align="center">
   <a href="https://raihansikdar.io">
     <img src="https://im4.ezgif.com/tmp/ezgif-4-e66811dab9.gif" alt="MasterHead">
