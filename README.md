@@ -6,10 +6,11 @@
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
 
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Flutter Developer and Machine Learning Enthusiast from Bangladesh</h3>
 
 <h2> Skills:</h2> 
-
+<h3> ⭐>>> Flutter: </h3>
+<h4> • Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map </h4>
 <h3> ⭐>>> Data Science (DS) : </h3>
 <h4> Data analysis • Data Mining >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn >>>Data Visualization : Matplotlib • Seaborn </h4>
 <h3> ⭐>>> Machine Learning (ML) : </h3>
