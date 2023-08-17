@@ -1,4 +1,4 @@
-[![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-be8e80d656.gif)](https://raihansikdar.io)
+[![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-9c6646ac75.gif)](https://raihansikdar.io)
 
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
 
