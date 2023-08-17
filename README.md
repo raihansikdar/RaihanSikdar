@@ -1,5 +1,9 @@
-<div align="center"> [![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-e66811dab9.gif)](https://raihansikdar.io)</div>
-
+ [![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-e66811dab9.gif)](https://raihansikdar.io)
+<div align="center">
+  <a href="https://raihansikdar.io">
+    <img src="https://im4.ezgif.com/tmp/ezgif-4-e66811dab9.gif" alt="MasterHead">
+  </a>
+</div>
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
 
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
