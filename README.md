@@ -9,12 +9,10 @@
 <h3 align="center">A passionate Flutter Developer and Machine Learning Enthusiast from Bangladesh</h3>
 
 <h3> Skills:</h3> 
-<h4> ⭐>>> Flutter: </h4>
-<h4> • Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map </h4>
-<h4> ⭐>>> Data Science (DS) : </h4>
-<h4> Data analysis • Data Mining >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn >>>Data Visualization : Matplotlib • Seaborn </h4>
-<h4> ⭐>>> Machine Learning (ML) : </43>
-<h4> Linear Classification • Linear Regression • K-Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree        • Random Forest • K-Means </h4>
+<h4> ⭐>>> Flutter: • Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map </h4>
+<h4> ⭐>>> Data Science (DS) : Data analysis • Data Mining >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn >>>Data Visualization : Matplotlib • Seaborn  </h4>
+<h4> ⭐>>> Machine Learning (ML) : Linear Classification • Linear Regression • K-Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree • Random Forest • K-Means</43>
+
 
 <!-- <h3> ⭐>>> Software Quality Assurance (SQA) : </h3>
 <h4> Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools. • API Testing Tool : Postman • Performance Testing Tool : JMeter • Agile Methodology & Project Management Tool : Jira </h>   -->
