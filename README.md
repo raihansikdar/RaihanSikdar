@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://raihansikdar.io">
-    <img src="https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif" alt="MasterHead">
+    <img src="https://im2.ezgif.com/tmp/ezgif-2-4df54dd212.gif" alt="MasterHead">
   </a>
 </div>
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
