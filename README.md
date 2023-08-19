@@ -13,7 +13,7 @@
 <h3 align="center">A passionate Flutter Developer and Machine Learning Enthusiast from Bangladesh</h3>
 
 <h3> Skills:</h3> 
-<h4> ⭐>>> Flutter: Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map </h4>
+<p> <h3> ⭐>>> Flutter: </h3> <h4> Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map </h4></p>
 <h4> ⭐>>> Data Science (DS) : Data analysis • Data Mining >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn >>>Data Visualization : Matplotlib • Seaborn  </h4>
 <h4> ⭐>>> Machine Learning (ML) : Linear Classification • Linear Regression • K-Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree • Random Forest • K-Means</43>
 
