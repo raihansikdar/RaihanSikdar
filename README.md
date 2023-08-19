@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://raihansikdar.io">
+  <a href="https://raihansikdar.io"> 
     <img src="https://raw.githubusercontent.com/raihansikdar/thrives-app/main/ezgif-2-60fc8e92cf.gif?token=GHSAT0AAAAAACFNNCX3LE4TRRFO2N7BIR5SZG7CAYQ" alt="MasterHead">
   </a>
 </div>
