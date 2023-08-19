@@ -2,7 +2,7 @@
   <a href="https://raihansikdar.io"> 
     <img src="https://github.com/raihansikdar/RaihanSikdar/blob/main/image_processing20211210-14151-1qv8rrp.gif?raw=true"
          alt="MasterHead"
-         style="height: 200px; width: 300px;">
+         style="height: 400px; width: 600px;">
   </a>
 </div>
 
