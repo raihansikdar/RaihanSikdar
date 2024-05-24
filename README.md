@@ -10,7 +10,7 @@
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
 
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
-<h3 align="center">A passionate Flutter Developer and Machine Learning Enthusiast from Bangladesh</h3>
+<h3 align="center">A passionate Mobile App Developer and Machine Learning Enthusiast from Bangladesh</h3>
 <p>I'm currently working on Mobile Development. As mobile app developer I use Flutter which is a framework for cross platform app development and I really love it.</p>
 <h4> Skills:</h4> 
 <h5> ⭐>>> Flutter: Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map • Payment gateway </h5>
