@@ -13,7 +13,7 @@
 <h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast from Bangladesh</h3>
 <p>I'm currently working on Mobile Development. As mobile app developer I use Flutter which is a framework for cross platform app development and I really love it.</p>
 <h4> Skills:</h4> 
-<h5> ⭐>>> Flutter: Dart Programming Language • State Management: GetX • REST API Integration • Responsive Design • Firebase • Localization • Location and Map • Payment gateway </h5>
+<h5> ⭐>>> Flutter: Dart Programming Language • State Management: Bloc,GetX,Provider • REST API Integration • Responsive Design • Firebase • Localization • Location and Map • Payment gateway </h5>
 <h5> ⭐>>> Data Science (DS) : Data analysis • Data Mining >>>Data Manipulation : Pandas • NumPy • Sklearn • Scikit-Learn >>>Data Visualization : Matplotlib • Seaborn  </h5>
 <h5> ⭐>>> Machine Learning (ML) : Linear Classification • Linear Regression • K-Nearest Neighbour (KNN) • Logistic Regression • Support Vector Machine (SVM) • Naive Bayes • Decision Tree • Random Forest • K-Means</h5>
 
