@@ -68,7 +68,7 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihansikdar&show_icons=true&locale=en&layout=compact" alt="raihansikdar" /></p>
 -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=raihansikdar)
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=raihansikdar&theme=highcontrast&show_icons=true&count_private=true)
