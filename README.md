@@ -29,8 +29,7 @@
 ###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/raihansikdar"> Raihan Sikdar </a>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p> -->
 
 - 💻 Software Engineer with **2+ years** of experience in:
   - 📱 **App** Development (Android, Flutter)
@@ -41,6 +40,7 @@
 - 🌐 Visit [raihansikdar.com](https://raihansikdar.com) to know more about me
 - 📫 How to reach me **raihansikdar10@gmail.com**
 
+<img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
