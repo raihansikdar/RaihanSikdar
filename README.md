@@ -29,6 +29,8 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p>
+
 
 - 💻 Software Engineer with **2+ years** of experience in:
   - 📱 **App** Development (Android, Flutter)
