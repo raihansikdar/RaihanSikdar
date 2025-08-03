@@ -9,6 +9,14 @@
 -->
 
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
+###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/raihansikdar"> Raihan Sikdar </a>
+
+- 💻 Software Engineer with **2+ years** of experience in:
+  - 📱 **App** Development (Android, Flutter)
+  - 🌐 **Backend** Development (Django)
+- 💬 Discuss with me about Python, Django, Android and Flutter
+- 🌱 Currently learning **Go**-lang and Database **Optimization**
+- 🌐 Visit [raihansikdar.com](https://raihansikdar.com) to know more about me
 
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 <h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast from Bangladesh</h3>
