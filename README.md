@@ -9,7 +9,6 @@
 -->
 
 <!-- [![MasterHead](https://miro.medium.com/max/1400/0*9fHp7XPtNDqQr2oQ.gif)](https://raihansikdar.io) -->
-###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/raihansikdar"> Raihan Sikdar </a>
 
 
 <!--
@@ -27,6 +26,7 @@
 <!-- <h4> ⭐>>> Software Quality Assurance (SQA) : </h4>
 <h5> Manual Testing: Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools. • API Testing Tool : Postman • Performance Testing Tool : JMeter • Agile Methodology & Project Management Tool : Jira </h5>   -->
 
+###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/raihansikdar"> Raihan Sikdar </a>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p>
