@@ -40,7 +40,6 @@
 - 🌐 Visit [raihansikdar.com](https://raihansikdar.com) to know more about me
 - 📫 How to reach me **raihansikdar10@gmail.com**
 
-<img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -119,6 +118,7 @@
 </p>
 
 
+<img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
 
 
 
