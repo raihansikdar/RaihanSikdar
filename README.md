@@ -36,7 +36,7 @@
   - 🌐 **Backend** Development (Django)
 - 🔭 I’m currently working on **Mobile Apps Development**
 - 💬 Discuss with me about Python, Django, Android and Flutter
-- 🌱 Currently learning **Django** and Database **Optimization**
+- 🌱 Currently learning **Django Rest Framework ** and Database **Optimization**
 - 🌐 Visit [raihansikdar.com](https://raihansikdar.com) to know more about me
 - 📫 How to reach me **raihansikdar10@gmail.com**
 
