@@ -32,7 +32,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p> -->
 
 - 💻 Software Engineer with **2+ years** of experience in:
-  - 📱 **App** Development (Android, Flutter)
+  - 📱 **App** Development (Kotlin, Flutter)
   - 🌐 **Backend** Development (Django)
 - 🔭 I’m currently working on **Mobile Apps Development**
 - 💬 Discuss with me about Python, Django, Android and Flutter
