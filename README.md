@@ -1,3 +1,5 @@
+<h2 align="center">لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</h2>
+
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 
 <h3 align="center">
