@@ -104,17 +104,14 @@
 <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind CSS</td>
 </tr>
 </table>
+
+
+
+
 <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar&" alt="raihansikdar" /></p> 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar&" alt="raihansikdar" /></p>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihansikdar" alt="raihansikdar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihansikdar" alt="raihansikdar" /></a> </p> -->
