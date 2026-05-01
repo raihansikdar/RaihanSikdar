@@ -1,16 +1,32 @@
-###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/raihansikdar"> Raihan Sikdar </a>
+<h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Profile%20views&color=0e75b6&style=flat" alt="raihansikdar" /> </p> -->
+<h3 align="center">
+  Software Engineer | Mobile (Flutter, Kotlin) & Backend (Django)
+</h3>
 
-- 💻 Software Engineer with **2+ years** of experience in:
-  - 📱 **App** Development (Kotlin, Flutter)
-  - 🌐 **Backend** Development (Django)
-- 🔭 I’m currently working on **Mobile Apps Development**
-- 💬 Discuss with me about Python, Django, Android and Flutter
-- 🌱 Currently learning **Django Rest Framework** and Database **Optimization**
-- 🌐 Visit [raihansikdar.com](https://raihansikdar.com) to know more about me
-- 📫 How to reach me **raihansikdar10@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Designing+Robust+Django+Backend+Systems;Focused+on+Performance+and+Maintainability" />
+</p>
+
+<p align="center">
+  <a href="https://raihansikdar.com">🌐 Portfolio</a> •
+  <a href="mailto:raihansikdar10@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/raihansikdar">💼 LinkedIn</a>
+</p>
+
+---
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 👨‍💻 About Me
+- 💻 Software Engineer with **2+ years** experience  
+- 📱 Mobile Development: **Flutter, Kotlin**  
+- 🌐 Backend Development: **Django**  
+- 🔭 Currently working on **Mobile Apps Development**  
+- 🌱 Learning **Django REST Framework & DB Optimization**  
+- 💬 Ask me about **Python, Django, Android, Flutter**
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
