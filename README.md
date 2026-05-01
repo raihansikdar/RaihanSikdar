@@ -102,7 +102,7 @@
 <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" width="40"/><br>Android</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br>Flutter</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/><br>Jetpack Compose</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40"/><br>Django</td>
+<td align="center"><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo-black-and-white.png" width="40"/><br>Django</td>
 <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/><br>PostgreSQL</td>
 </tr>
 
