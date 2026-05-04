@@ -1,6 +1,9 @@
 <h6 align="center">لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</h6>
 
 <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/raihansikdar/RaihanSikdar/blob/main/raihan_sikdar.svg" alt="Raihan Sikdar" />
+</h1>
 
 <h3 align="center">
   Software Engineer | Mobile (Flutter, Kotlin) & Backend (Django)
