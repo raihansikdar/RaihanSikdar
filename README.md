@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Designing+Robust+Django+Backend+Systems;Focused+on+Performance+and+Maintainability" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Designing+Robust+Django+Backend+Systems;Open+Source+Contributor+on+pub.dev" />
 </p>
 
 <p align="center">
