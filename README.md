@@ -1,4 +1,4 @@
-<h6 align="center">لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</h6>
+<h5 align="center">لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</h5>
 
 <!-- <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1> -->
 <h1 align="center">
