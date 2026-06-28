@@ -133,7 +133,21 @@
 <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar&" alt="raihansikdar" /></p> 
-
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=raihansikdar"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=raihansikdar&show_icons=true&theme=default"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihansikdar" alt="raihansikdar" /></a> </p> -->
