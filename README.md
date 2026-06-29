@@ -143,8 +143,8 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=raihansikdar&show_icons=true&theme=default"
-        alt="GitHub Stats"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=raihansikdar&show_icons=true"
+  alt="GitHub Stats"
       />
     </td>
   </tr>
