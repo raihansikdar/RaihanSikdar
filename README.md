@@ -70,7 +70,7 @@
 </td>
 
 <td align="center">
-  <a href="https://www.hackerrank.com/raihansikdar10" target="_blank">
+  <a href="https://www.hackerrank.com/profile/raihansikdar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/><br>HackerRank
   </a>
 </td>
