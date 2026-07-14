@@ -13,11 +13,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Designing+Robust+Django+Backend+Systems;Open+Source+Contributor+on+pub.dev" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://raihansikdar.com">🌐 Portfolio</a> •
   <a href="mailto:raihansikdar10@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/raihansikdar">💼 LinkedIn</a>
-</p>
+</p> -->
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-raihansikdar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raihansikdar.com)
+[![Email](https://img.shields.io/badge/Email-raihansikdar10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihansikdar10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raihansikdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihansikdar)
 
 ---
 
