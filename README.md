@@ -20,15 +20,13 @@
 </p> -->
 
 <p align="center">
-  <a href="https://raihansikdar.com" target="_blank">
+  <a href="https://raihansikdar.com">
     <img src="https://img.shields.io/badge/Portfolio-raihansikdar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-
-  <a href="mailto:raihansikdar10@gmail.com" target="_blank">
+  <a href="mailto:raihansikdar10@gmail.com">
     <img src="https://img.shields.io/badge/Email-raihansikdar10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-  <a href="https://linkedin.com/in/raihansikdar" target="_blank">
+  <a href="https://linkedin.com/in/raihansikdar">
     <img src="https://img.shields.io/badge/LinkedIn-raihansikdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
