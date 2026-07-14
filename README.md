@@ -20,10 +20,19 @@
 </p> -->
 
 <p align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-raihansikdar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raihansikdar.com)
-[![Email](https://img.shields.io/badge/Email-raihansikdar10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihansikdar10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raihansikdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihansikdar)
-</p> 
+  <a href="https://raihansikdar.com">
+    <img src="https://img.shields.io/badge/Portfolio-raihansikdar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+
+  <a href="mailto:raihansikdar10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raihansikdar10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://linkedin.com/in/raihansikdar">
+    <img src="https://img.shields.io/badge/LinkedIn-raihansikdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 ---
 
 <!-- <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
