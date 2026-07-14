@@ -20,7 +20,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://raihansikdar.com">
+  <a href="https://raihansikdar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-raihansikdar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:raihansikdar10@gmail.com">
