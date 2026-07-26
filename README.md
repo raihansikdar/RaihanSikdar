@@ -34,7 +34,7 @@
 ---
 
 <!-- <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
-<img align="right" alt="Coding" height= "200" width="200" src="https://github.com/raihansikdar/RaihanSikdar/blob/main/raihan_desk.png">
+<img align="right" alt="Coding" height= "200" width="200" src="https://github.com/raihansikdar/RaihanSikdar/blob/main/raihan_desk_2.png">
 
 ### 👨‍💻 About Me
 - 💻 Software Engineer with **2+ years** experience  
