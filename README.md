@@ -23,8 +23,8 @@
   <a href="https://raihansikdar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-raihansikdar.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="[https://pub.dev](https://pub.dev/publishers/raihansikdar.com/packages)">
-<img src="https://img.shields.io/badge/pub.dev-Packages-0175C2?style=for-the-badge&logo=dart"/>
+ <a href="https://pub.dev/publishers/raihansikdar.com/packages" target="_blank">
+  <img src="https://img.shields.io/badge/pub.dev-Open%20Source%20Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev Packages" />
 </a>
   <a href="mailto:raihansikdar10@gmail.com">
     <img src="https://img.shields.io/badge/Email-raihansikdar10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -32,6 +32,7 @@
   <a href="https://linkedin.com/in/raihansikdar">
     <img src="https://img.shields.io/badge/LinkedIn-raihansikdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
 </p>
 
 ---
@@ -144,9 +145,13 @@
 
 
 
+<p>
 
-<img src="https://komarev.com/ghpvc/?username=raihansikdar&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="raihansikdar" height="36" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihansikdar&theme=github_dark"/>
 
+</p>
+
+</p>
 
 <table>
   <tr>
@@ -164,5 +169,11 @@
     </td>
   </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihansikdar&theme=github-compact" />
+</p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihansikdar" alt="raihansikdar" /></a> </p> -->
