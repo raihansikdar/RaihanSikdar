@@ -41,14 +41,23 @@
 <img align="right" alt="Coding" height= "200" width="200" src="https://github.com/raihansikdar/RaihanSikdar/blob/main/raihan_desk_2.png">
 
 ### 👨‍💻 About Me
-- 💻 Software Engineer with **2+ years** experience  
-- 📱 Mobile Development: **Flutter, Kotlin**  
-- 🌐 Backend Development: **Django**  
-- 🔭 Currently working on **Mobile Apps Development**  
-- 🌱 Learning **Django REST Framework & DB Optimization**  
-- 💬 Ask me about **Python, Django, Android, Flutter**
+
+- 💻 Software Engineer with **3+ years** of experience
+- 📱 Building scalable cross-platform apps with **Flutter**
+- ⚙️ Backend development using **Django & Django REST Framework**
+- 🚀 Published **6 Open Source Flutter Packages** on pub.dev
+- 📦 Passionate about Clean Architecture, State Management & CI/CD
+- 🌱 Currently exploring AI integration in Flutter
+## 🎯 Current Focus
+
+- 🚀 Building scalable Flutter applications
+- 📦 Publishing open-source Flutter packages
+- 🤖 Exploring AI-powered mobile applications
+- ⚡ Designing high-performance REST APIs
+  
 
 ---
+
 
 
 <h3 align="left">Connect with me:</h3>
