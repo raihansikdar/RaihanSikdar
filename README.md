@@ -43,21 +43,15 @@
 ### 👨‍💻 About Me
 
 - 💻 Software Engineer with **3+ years** of experience
-- 📱 Building scalable cross-platform apps with **Flutter**
-- ⚙️ Backend development using **Django & Django REST Framework**
+- 📱 Building scalable cross-platform applications using **Flutter & Kotlin**
+- ⚙️ Backend development with **Django & Django REST Framework**
 - 🚀 Published **6 Open Source Flutter Packages** on pub.dev
-- 📦 Passionate about Clean Architecture, State Management & CI/CD
-- 🌱 Currently exploring AI integration in Flutter
-## 🎯 Current Focus
-
-- 🚀 Building scalable Flutter applications
-- 📦 Publishing open-source Flutter packages
-- 🤖 Exploring AI-powered mobile applications
-- ⚡ Designing high-performance REST APIs
-  
+- 📦 Passionate about **Clean Architecture, State Management & CI/CD**
+- 🤖 Exploring **AI-powered mobile applications**
+- 🌱 Continuously learning **System Design, Database Optimization & Cloud Technologies**
+- ⚡ Focused on building high-performance apps and scalable REST APIs
 
 ---
-
 
 
 <h3 align="left">Connect with me:</h3>
