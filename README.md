@@ -148,6 +148,24 @@
 
 
 
+## 📦 Open Source Packages
+
+| Package | Description |
+|---------|-------------|
+|[raihan_cli](https://pub.dev/packages/raihan_cli) | CLI tool for generating Flutter features with Clean Architecture, MVC/MVVM, and popular state management support. |
+|[flutter_debug_logger](https://pub.dev/packages/flutter_debug_logger) | Pretty JSON logger for Flutter with clean API request, response, and error debugging. |
+|[flutter_smart_exit](https://pub.dev/packages/flutter_smart_exit) | Smart Android back-press handling with double-tap exit, dialogs, bottom sheets, and snackbars. |
+|[flutter_colorful_search](https://pub.dev/packages/flutter_colorful_search) | Lightweight widget for highlighting matching text in search and autocomplete UIs. |
+|[pretty_dio_clean_logger](https://pub.dev/packages/pretty_dio_clean_logger) | Beautiful and customizable Dio logger with formatted request, response, and error logs. |
+|[text_component](https://pub.dev/packages/text_component) | Reusable text widget with advanced styling, customization, and responsive text support. |
+
+<p align="center">
+  <a href="https://pub.dev/publishers/raihansikdar.com/packages">
+    <img src="https://img.shields.io/badge/View%20All%20Packages-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+</p>
+
+
 <p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihansikdar&theme=github_dark"/>
