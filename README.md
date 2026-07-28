@@ -149,6 +149,11 @@
 
 
 ## 📦 Open Source Packages
+<p>
+  <a href="https://pub.dev/publishers/raihansikdar.com/packages">
+    <img src="https://img.shields.io/badge/View%20All%20Packages-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+</p>
 
 | Package | Description |
 |---------|-------------|
@@ -158,12 +163,6 @@
 |[flutter_colorful_search](https://pub.dev/packages/flutter_colorful_search) | Lightweight widget for highlighting matching text in search and autocomplete UIs. |
 |[pretty_dio_clean_logger](https://pub.dev/packages/pretty_dio_clean_logger) | Beautiful and customizable Dio logger with formatted request, response, and error logs. |
 |[text_component](https://pub.dev/packages/text_component) | Reusable text widget with advanced styling, customization, and responsive text support. |
-
-<p align="center">
-  <a href="https://pub.dev/publishers/raihansikdar.com/packages">
-    <img src="https://img.shields.io/badge/View%20All%20Packages-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
-</p>
 
 
 <p>
