@@ -1,23 +1,23 @@
 <h5 align="center">لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</h5>
 
 <!-- <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1> -->
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/raihansikdar/RaihanSikdar/main/raihan_sikdar.svg" alt="Raihan Sikdar" />
 </h1>
 
-<h3 align="center">
-  Software Engineer | Mobile (Flutter, Kotlin) & Backend (Django)
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Designing+Robust+Django+Backend+Systems;Open+Source+Contributor+on+pub.dev" />
+  <strong>Software Engineer · Mobile & Backend</strong>
 </p>
 
-<!-- <p align="center">
-  <a href="https://raihansikdar.com">🌐 Portfolio</a> •
-  <a href="mailto:raihansikdar10@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/raihansikdar">💼 LinkedIn</a>
-</p> -->
+<p align="center">
+  Flutter · Kotlin · Django · Django REST Framework
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Mobile+Applications;Designing+Reliable+Backend+Systems;Creating+Open+Source+Developer+Tools" />
+</p>
+
 
 <p align="center">
   <a href="https://raihansikdar.vercel.app/">
