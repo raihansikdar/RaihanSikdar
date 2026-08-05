@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Flutter · Kotlin · Django · Django REST Framework
+  Flutter · Kotlin · Python · Django REST Framework
 </p>
 
 <p align="center">
