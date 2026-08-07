@@ -52,6 +52,7 @@
 - ⚡ Focused on building high-performance apps and scalable REST APIs
 
 <p>I enjoy turning complex requirements into **simple, scalable, and production-ready solutions** while continuously improving my engineering skills.</p>
+
 ---
 
 
