@@ -51,7 +51,7 @@
 - 🌱 Continuously learning **System Design, Database Optimization & Cloud Technologies**
 - ⚡ Focused on building high-performance apps and scalable REST APIs
 
-I enjoy turning complex requirements into **simple, scalable, and production-ready solutions** while continuously improving my engineering skills.
+<p>I enjoy turning complex requirements into **simple, scalable, and production-ready solutions** while continuously improving my engineering skills.</p>
 ---
 
 
