@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Raihan Sikdar</h1> -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/raihansikdar/RaihanSikdar/main/raihan_sikdar.svg" alt="Raihan Sikdar" />
+  <img src="https://github.com/raihansikdar/RaihanSikdar/blob/main/Raihan_Sikdar_Cyber_Glitch.gif" alt="Raihan Sikdar" />
 </h1>
 
 <p align="center">
